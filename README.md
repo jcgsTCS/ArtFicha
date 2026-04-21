@@ -76,7 +76,6 @@ No guardes `SUPABASE_SERVICE_ROLE_KEY` en código ni en archivos que vayan a Git
 ## Limitaciones Conocidas
 
 - Las claves aún se introducen desde frontend y se mantienen en sesión.
-- Falta facturación si se quiere vender como SaaS.
 - Falta almacenamiento dedicado de imágenes en Supabase Storage.
 - Falta monitorización externa de errores.
 - Falta medición real con 50-100 imágenes para validar precisión del autogiro/recorte.
