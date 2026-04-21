@@ -1,0 +1,1 @@
+ALTER TABLE public.art_drafts ADD COLUMN artwork_name TEXT;

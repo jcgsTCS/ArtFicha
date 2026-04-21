@@ -1,0 +1,25 @@
+{
+  "name": "ArtFicha",
+  "short_name": "ArtFicha",
+  "description": "Catalogacion y publicacion de obras de arte con IA.",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#0f3dff",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "/artficha-favicon.jpeg",
+      "sizes": "192x192",
+      "type": "image/jpeg",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/artficha-favicon.jpeg",
+      "sizes": "512x512",
+      "type": "image/jpeg",
+      "purpose": "any maskable"
+    }
+  ]
+}
